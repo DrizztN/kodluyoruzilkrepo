@@ -1,3 +1,5 @@
 # kodluyoruzilkrepo
 Kodluyoruz Eğitimi kapsamında açtığım ilk repo
-selamsasaasdfasdf:
+selamsasaasdfasdf:,
+ASD:FASDF
+:DDD
